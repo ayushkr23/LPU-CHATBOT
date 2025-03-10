@@ -39,7 +39,7 @@ python chatbot.py
 ## 📂 Project Structure
 ```
 📦 lpu-chatbot
- ┣ 📜 chatbot.py    # Main chatbot script
+ ┣ 📜 Ai.py    # Main chatbot script
  ┣ 📜 lpu.json      # FAQ dataset for LPU
  ┣ 📜 README.md     # Project documentation
 ```
