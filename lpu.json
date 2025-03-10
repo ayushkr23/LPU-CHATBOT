@@ -1,0 +1,842 @@
+{
+    "LPU_FAQ_Dataset": {
+        "dataset_info": {
+            "title": "Comprehensive FAQ Dataset for LPU (Lovely Professional University) AI Chatbot Training",
+            "description": "A structured dataset designed specifically for training an AI chatbot to accurately respond to inquiries about Lovely Professional University.",
+            "last_updated": "2025-03-09"
+        },
+        "categories": {
+            "Admission_Process": {
+                "overview": "Lovely Professional University has established a fully online admission process that commenced for the 2025 batch in January 2025, enabling prospective students to complete their applications conveniently from anywhere.",
+                "topics": {
+                    "Application_Process": {
+                        "questions": [
+                            {
+                                "question": "How can I apply for admission to LPU?",
+                                "answer": "Candidates can initiate their admission journey by visiting the dedicated admissions portal at https://admissions.lpu.in or by contacting the university directly at 01824-517000 for comprehensive guidance on the admission procedure."
+                            },
+                            {
+                                "question": "Can I visit the campus for admission?",
+                                "answer": "For those who prefer in-person assistance, the university campus remains accessible on working days from 9 am to 5 pm, where admission counselors provide personalized guidance to complete the application process."
+                            },
+                            {
+                                "question": "How long does the admission process take?",
+                                "answer": "The admission process typically requires approximately two hours to complete, including counseling sessions and campus orientation, though candidates can also opt for virtual campus tours through the 360-degree view feature available on the university website."
+                            },
+                            {
+                                "question": "Has the admission process started at Lovely Professional University?",
+                                "answer": "Yes, the admission process has started at Lovely Professional University. LPU has a fully online application to admission process. Visit the link https://admissions.lpu.in or call 01824-517000 for detailed information and admission process."
+                            },
+                            {
+                                "question": "What support initiatives does LPU have for prospective candidates?",
+                                "answer": "Lovely Professional University has multiple initiatives in place to support prospective candidates in best possible way: Admission process is fully online. One can also visit the University campus on any working day from 9 am to 5pm to complete the admission process. Visit https://admissions.lpu.in/ to initiate your online admission process."
+                            },
+                            {
+                                "question": "When did admissions for batch 2025 start?",
+                                "answer": "The admission in various programmes of batch 2025 has started from January 2025. Visit respective program page for more details."
+                            },
+                            {
+                                "question": "What documents are required for online admission?",
+                                "answer": "The **scanned copies** of following documents are required at the time of making application for online admission."
+                            },
+                            {
+                                "question": "Is it necessary to fill all fields in the application form?",
+                                "answer": "It is recommended that you should fill all fields mentioned in the application form, but you may only fill the mandatory fields marked as (*) to submit your admission application."
+                            },
+                            {
+                                "question": "What formalities are required to confirm a seat?",
+                                "answer": "The candidate is required to **complete some basic formalities** {register online, upload documents, pay a minimum amount of fee, clear entrance test/ Counselling/ interview... (if applicable)} to confirm the seat in any programme subject to fulfilling the eligibility criteria. An eight-digit provisional registration number will be generated and will be shared on registered mobile number and email-id of the candidate, indicating the confirmation of seat."
+                            },
+                            {
+                                "question": "How can I correct information in my application?",
+                                "answer": "You need to send information from your registered email-ID to admissions@lpu.co.in explaining the corrections/ details. Don't forget to mention your application ID and registered Mobile or you can call us at 01824- 404404 / 01824-517000."
+                            },
+                            {
+                                "question": "How can I apply for a refund?",
+                                "answer": "You can apply online for a refund or contact the university at 01824-517000. [Click here](https://admissions.lpu.in/refund-policy) to read the detailed Refund Policy."
+                            },
+                            {
+                                "question": "How can I contact the university for admission-related queries?",
+                                "answer": "There are multiple channels to help you for this: Email Helpline: admissions@lpu.co.in WhatsApp Helpline: 98760-22222 Web Chat Helpline: www.lpu.in Helpline No.: 01824-517000 / 01824-404404 One to one Interaction with our Expert Admission Counsellors through Live Video Counselling Click here to join For more details, please visit our Contact Us page at www.lpu.in."
+                            },
+                            {
+                                "question": "What is the eligibility criteria for the B.Tech program at LPU?",
+                                "answer": "The eligibility criteria for the B.Tech program at LPU include passing the 10+2 examination with Physics, Mathematics, and English as compulsory subjects, along with a minimum aggregate score of 60%. Additionally, candidates must qualify for the LPUNEST entrance exam or any other equivalent national-level entrance exam."
+                            },
+                            {
+                                "question": "How can international students apply for admission at LPU?",
+                                "answer": "International students can apply for admission at LPU by visiting the international admissions portal at https://admissions.lpu.in/international. They need to fill out the application form, upload the required documents, and pay the application fee. For further assistance, they can contact the international admissions office at international@lpu.co.in."
+                            }
+                        ]
+                    },
+                    "Entrance_Examinations": {
+                        "questions": [
+                            {
+                                "question": "What is LPUNEST?",
+                                "answer": "LPUNEST (LPU National Entrance and Scholarship Test) serves as both an entrance and scholarship examination for most programs at Lovely Professional University, with specific test dates announced for different programs."
+                            },
+                            {
+                                "question": "Is LPUNEST mandatory?",
+                                "answer": "The university strongly recommends that prospective students take the LPUNEST as it functions as both an eligibility assessment and a scholarship opportunity for most academic programs, though for certain programs it exclusively serves as a scholarship test."
+                            },
+                            {
+                                "question": "Where can I find eligibility criteria for programs?",
+                                "answer": "The eligibility criteria vary significantly across different programs, and detailed information regarding specific program requirements can be found on the respective program pages or on the LPUNEST portal (nest.lpu.in)."
+                            },
+                            {
+                                "question": "What is LPUNEST? Is it mandatory?",
+                                "answer": "LPUNEST (Online Remotely Proctored and Test Centre Based Exam) dates are announced. We suggest you take the LPUNEST Exam as it acts as both an entrance and scholarship test for most programs. [Click here](https://nest.lpu.in) to view programme-wise LPUNEST Dates."
+                            },
+                            {
+                                "question": "Does Lovely Professional University (LPU) offer scholarships?",
+                                "details": "This question asks about the availability of scholarships at LPU, focusing on eligibility based on academic performance, entrance exams, sports achievements, and financial need."
+                            },
+                            {
+                                "question": "What is the eligibility criteria for LPUNEST?",
+                                "answer": "The eligibility criteria for LPUNEST vary across programs and can be found on the official LPUNEST portal (nest.lpu.in) or on the respective program pages on the university website."
+                            },
+                            {
+                                "question": "Where can I find LPUNEST dates?",
+                                "answer": "LPUNEST dates are announced on the official LPUNEST portal (nest.lpu.in) and are specific to different programs, ensuring that candidates have access to accurate information regarding the examination schedule."
+                            },
+                            {
+                                "question": "What is the syllabus for LPUNEST?",
+                                "answer": "The syllabus for LPUNEST varies across programs and can be found on the official LPUNEST portal (nest.lpu.in) or on the respective program pages on the university website, providing detailed information about the topics covered in the examination."
+                            },
+                            {
+                                "question": "How can I prepare for LPUNEST?",
+                                "answer": "Preparation strategies for LPUNEST may include reviewing the syllabus, practicing sample questions, and seeking guidance from academic mentors or online resources to ensure comprehensive readiness for the examination."
+                            },
+                            {
+                                "question": "What is the marking scheme for LPUNEST?",
+                                "answer": "The marking scheme for LPUNEST varies across programs and can be found on the official LPUNEST portal (nest.lpu.in) or on the respective program pages on the university website, providing detailed information about the scoring system used in the examination."
+                            },
+                            {
+                                "question": "How can I register for LPUNEST?",
+                                "answer": "Registration for LPUNEST can be completed online through the official LPUNEST portal (nest.lpu.in), where candidates can create an account, select their desired program, and choose an examination slot based on availability."
+                            },
+                            {
+                                "question": "What is the fee for LPUNEST?",
+                                "answer": "The fee for LPUNEST varies depending on the program and can be found on the official LPUNEST portal (nest.lpu.in) or on the respective program pages on the university website, providing detailed information about the examination fee structure."
+                            },
+                            {
+                                "question": "How can I get LPUNEST sample papers?",
+                                "answer": "LPUNEST sample papers can be accessed through the official LPUNEST portal (nest.lpu.in) or on the respective program pages on the university website, providing candidates with practice materials to enhance their preparation for the examination."
+                            },
+                            {
+                                "question": "What are the specializations available in the MBA program at LPU?",
+                                "answer": "The MBA program at LPU offers various specializations including Finance, Marketing, Human Resource Management, International Business, Operations Management, Information Technology, and Entrepreneurship. Students can choose their specialization based on their career interests and goals."
+                            },
+                            {
+                                "question": "Does LPU offer any online or distance learning programs?",
+                                "answer": "Yes, LPU offers a range of online and distance learning programs through its Directorate of Distance Education (DDE). These programs are designed to provide flexible learning opportunities for students who cannot attend regular on-campus classes. More information can be found on the LPU DDE website."
+                            }
+                        ]
+                    },
+                    "Admission_Fee_Structure": {
+                        "questions": [
+                            {
+                                "question": "What is the fee for provisional admission?",
+                                "answer": "For provisional admission, candidates can secure their seat by paying a nominal fee of Rs. 10,000 for most programs, which is subsequently adjusted against the program fee for the semester, with exceptions for specific programs such as M.Sc. Agriculture, M.Pharm., M.A. Hindi/Punjabi, and B.Pharma Programs."
+                            },
+                            {
+                                "question": "Can I pay fees in installments?",
+                                "answer": "The university demonstrates flexibility regarding fee payment, allowing students to pay the balance amount in installments within 7-10 days after securing admission, and for those facing financial challenges, the university provides an option to communicate these concerns through a dedicated email address (feeinfo@lpu.co.in)."
+                            },
+                            {
+                                "question": "What is the fee structure for provisional admission?",
+                                "answer": "You can take provisional admission and confirm your seat by paying a nominal fee of Rs. 10,000 in all programmes which would be adjusted against your programme fee of the semester (except M.Sc. Agriculture, M.Pharm., M.A. Hindi/Punjabi and B.Pharma Programmes). Click here for program wise detailed information."
+                            },
+                            {
+                                "question": "Can I pay my fees in installments?",
+                                "answer": "You may pay the balance fee in parts within 7-10 days after taking admission in case you still face any challenges; you are advised to write to the university at feeinfo@lpu.co.in."
+                            }
+                        ]
+                    }
+                },
+                "description": "Detailed information about the admission process at LPU, including online application, required documents, fee structure, entrance exams, and contact information for queries."
+            },
+            "University_Systems": {
+                "topics": {
+                    "UMS (University Management Systems)": {
+                        "questions": [
+                            {
+                                "question": "What is UMS in LPU?",
+                                "answer": "In LPU, 'UMS' stands for 'University Management System'. It is an online platform that helps students and faculty manage academic and administrative activities efficiently. UMS provides access to attendance records, fee payments, exam schedules, result declarations, library resources, and more."
+                            },
+                            {
+                                "question": "What features does UMS offer?",
+                                "answer": "UMS at LPU offers various features including:\n1. **Attendance Management** - Students can track their attendance in real time.\n2. **Fee Payment** - Online fee payment and receipt generation.\n3. **Exam & Result Portal** - View schedules, grades, and results.\n4. **Course Material** - Download assignments, lecture notes, and reference materials.\n5. **Library Access** - Search and reserve books online."
+                            },
+                            {
+                                "question": "How do I log in to UMS?",
+                                "answer": "To log in to UMS, visit [https://ums.lpu.in](https://ums.lpu.in) and enter your credentials (Registration Number & Password). If you have trouble logging in, contact the IT helpdesk."
+                            },
+                            {
+                                "question": "What is the purpose of UMS?",
+                                "answer": "UMS serves as a centralized platform for students and faculty to access academic and administrative information, facilitating efficient management of various university-related activities such as attendance tracking, fee payments, exam schedules, and result declarations."
+                            },
+                            {
+                                "question": "How can I access UMS?",
+                                "answer": "You can access UMS by visiting the official UMS website at [https://ums.lpu.in](https://ums.lpu.in) and logging in with your credentials. For any login-related issues, you can contact the university's IT helpdesk for assistance."
+                            },
+                            {
+                                "question": "What are the benefits of using UMS?",
+                                "answer": "UMS offers several benefits to students and faculty, including easy access to attendance records, fee payment options, exam schedules, result declarations, course materials, and library resources. It streamlines academic and administrative processes, enhancing overall efficiency."
+                            },
+                            {
+                                "question": "How can I reset my UMS password?",
+                                "answer": "To reset your UMS password, visit the UMS login page and click on the 'Forgot Password' link. Follow the instructions to reset your password. If you encounter any issues, contact the IT helpdesk for assistance."
+                            },
+                            {
+                                "question": "What is the UMS ID?",
+                                "answer": "The UMS ID is a unique identification number assigned to each student or faculty member at Lovely Professional University. It serves as a primary identifier for accessing the University Management System and various academic and administrative services."
+                            },
+                            {
+                                "question": "How can I update my personal information on UMS?",
+                                "answer": "To update your personal information on UMS, log in to your UMS account and navigate to the 'Profile' or 'Settings' section. Here, you can edit and save changes to your personal details such as contact information, address, and emergency contacts."
+                            },
+                            {
+                                "question": "What is the UMS portal used for?",
+                                "answer": "The UMS portal is a comprehensive platform designed to facilitate academic and administrative activities for students and faculty at Lovely Professional University. It provides access to attendance records, fee payments, exam schedules, results, course materials, and library resources."
+                            },
+                            {
+                                "question": "How can I access my course materials on UMS?",
+                                "answer": "To access your course materials on UMS, log in to your account and navigate to the 'Course Materials' or 'Resources' section. Here, you can view and download lecture notes, assignments, reference materials, and other resources related to your courses."
+                            }
+                        ]
+                    },
+                    "LPU Touch (Mobile App)": {
+                        "questions": [
+                            {
+                                "question": "What is LPU Touch?",
+                                "answer": "LPU Touch is the official mobile application of Lovely Professional University. It provides students and faculty with easy access to academic and administrative services, similar to UMS, but in a mobile-friendly format."
+                            },
+                            {
+                                "question": "What features does LPU Touch offer?",
+                                "answer": "LPU Touch offers various features, including:\n1. **Class Schedule** - View daily and weekly class timetables.\n2. **Attendance & Marks** - Track attendance and exam scores.\n3. **Fee Payments** - Pay university fees through the app.\n4. **Notifications & Announcements** - Receive important university updates.\n5. **LMS (Learning Management System)** - Access course materials and assignments."
+                            },
+                            {
+                                "question": "Where can I download LPU Touch?",
+                                "answer": "You can download LPU Touch from:\n- **Google Play Store** (for Android): [https://play.google.com/store/apps/details?id=com.lpu.touch](https://play.google.com/store/apps/details?id=com.lpu.touch)\n- **Apple App Store** (for iOS): [https://apps.apple.com/in/app/lpu-touch/id123456789](https://apps.apple.com/in/app/lpu-touch)"
+                            },
+                            {
+                                "question": "How do I log in to LPU Touch?",
+                                "answer": "To log in, open the LPU Touch app and enter your **Registration Number** and **Password** (same as UMS credentials). If you forget your password, reset it through the UMS portal."
+                            }
+                        ]
+                    }
+                }
+            },
+            "LPU Courses": {
+                "topics": {
+                    "Available Programs": {
+                        "questions": [
+                            {
+                                "question": "Which courses does LPU offer?",
+                                "answer": "LPU offers a variety of courses across multiple disciplines. Some of the major programs include:\n\n"
+                            },
+                            {
+                                "question": "What are the undergraduate courses available in LPU?",
+                                "answer": "LPU offers undergraduate programs in various fields:\n- **Engineering** (B.Tech in CSE, ECE, Mechanical, Civil, IT, etc.)\n- **Management** (BBA, B.Com, Hotel Management)\n- **Sciences** (B.Sc in Biotechnology, Physics, Chemistry, Mathematics)\n- **Arts & Humanities** (BA, BA Hons in English, Political Science, History, Sociology)\n- **Law** (LLB, BA LLB, BBA LLB)\n- **Pharmacy** (B.Pharm, D.Pharm)\n- **Design & Fashion** (B.Design, BFA, Interior & Fashion Design)\n- **Computer Applications** (BCA)\n- **Journalism & Mass Communication** (BJMC)\n- **Agriculture** (B.Sc Agriculture)"
+                            },
+                            {
+                                "question": "What postgraduate courses does LPU offer?",
+                                "answer": "LPU provides a range of postgraduate programs including:\n- **Engineering** (M.Tech in CSE, ECE, Mechanical, Civil, IT, etc.)\n- **Management** (MBA, M.Com, Hotel Management)\n- **Sciences** (M.Sc in Biotechnology, Physics, Chemistry, Mathematics)\n- **Arts & Humanities** (MA in English, Political Science, History, Sociology)\n- **Law** (LLM)\n- **Pharmacy** (M.Pharm, Ph.D. in Pharmacy)\n- **Computer Applications** (MCA)\n- **Journalism & Mass Communication** (MJMC)\n- **Agriculture** (M.Sc Agriculture)"
+                            },
+                            {
+                                "question": "Does LPU offer PhD programs?",
+                                "answer": "Yes! LPU offers Ph.D. programs in Engineering, Management, Sciences, Humanities, Law, Pharmacy, and other fields. Admissions are based on entrance tests and interviews."
+                            },
+                            {
+                                "question": "Where can I check the complete course list?",
+                                "answer": "You can check the full list of programs at LPU's official website: [https://www.lpu.in/programmes.php](https://www.lpu.in/programmes.php)."
+                            }
+                        ]
+                    }
+                }
+            },
+            "Scholarship_Opportunities": {
+                "overview": "Lovely Professional University has established an extensive scholarship framework designed to provide financial assistance to bright and deserving students across all academic programs.",
+                "topics": {
+                    "General_Scholarship_Information": {
+                        "questions": [
+                            {
+                                "question": "What scholarships are available at LPU?",
+                                "answer": "The university's commitment to supporting academic excellence is evident in its allocation of scholarships worth over INR 100 crores during the previous academic year, with individual scholarships reaching up to 9.52 lakhs per student."
+                            },
+                            {
+                                "question": "What is the purpose of LPU's scholarship program?",
+                                "answer": "These financial allocations demonstrate LPU's dedication to making quality education accessible to talented individuals regardless of their economic background. The scholarship system at LPU is comprehensively structured to recognize various forms of merit and achievement, ensuring that deserving candidates receive appropriate financial support to pursue their educational aspirations."
+                            },
+                            {
+                                "question": "What scholarships are offered by LPU?",
+                                "answer": "The scholarship is offered in all the programmes in order to provide financial benefit to bright and deserving students. During the last year, LPU has granted scholarships **worth INR 100+ crores** to students (maximum up-to 9.52 lacs per student) to pursue their education. Following are few criteria for grant of scholarship."
+                            },
+                            {
+                                "question": "What sports facilities are available on the LPU campus?",
+                                "answer": "LPU offers a wide range of sports facilities including a cricket ground, football field, basketball courts, tennis courts, badminton courts, swimming pool, gymnasium, and indoor sports complex. The university encourages students to participate in various sports activities to promote physical fitness and overall well-being."
+                            }
+                        ]
+                    },
+                    "Scholarship_Categories": {
+                        "questions": [
+                            {
+                                "question": "What are the categories of scholarships offered?",
+                                "answer": "The university offers a diverse range of scholarship categories to accommodate students with different strengths and backgrounds, including merit-based scholarships awarded on the basis of academic performance, LPUNEST scores, or results in national-level tests such as JEE (Mains), NEET, UCEED, CAT, MAT, GATE, and GPAT."
+                            },
+                            {
+                                "question": "Are there scholarships for MBA students?",
+                                "answer": "For MBA aspirants, LPU provides work experience-based scholarships that recognize the professional background of candidates entering management programs."
+                            },
+                            {
+                                "question": "Are there scholarships for extracurricular achievements?",
+                                "answer": "The university also extends its scholarship opportunities to recognize excellence in sports, cultural activities, research and development, co-curricular activities, social service, and bravery awards, acknowledging achievements beyond academic performance."
+                            },
+                            {
+                                "question": "Are there scholarships for innovation and entrepreneurship?",
+                                "answer": "A particularly innovative category of scholarships at LPU rewards innovation, startups, entrepreneurship, and performance in hackathons, encouraging a culture of creativity and enterprise among its student community."
+                            },
+                            {
+                                "question": "What types of scholarships are available?",
+                                "answer": "LPU offers a variety of scholarships to support all deserving candidates. Scholarships are granted based on LPUNEST performance, academic merit, work experience, sports, cultural achievements, and national-level tests like JEE (Main), NEET, UCEED, CAT, MAT, GATE, GPAT. LPU also offers scholarships for startups and hackathons. [Click here](https://www.lpu.in/scholarship) for details about Scholarship Schemes."
+                            },
+                            {
+                                "question": "What are the criteria for scholarships?",
+                                "answer": "Scholarships are awarded to candidates based on their performance on any of the following categories:... For detail related to scholarships, you can visit at Scholarship Schemes."
+                            },
+                            {
+                                "question": "How are merit scholarships applied for?",
+                                "answer": "Merit Scholarships are applied for based on criteria such as **academic performance, LPUNEST scores**, work experience, and national-level test results. Check specific eligibility requirements for each category and submit your application accordingly."
+                            },
+                            {
+                                "question": "What are the eligibility criteria for merit scholarships?",
+                                "answer": "Eligibility criteria vary but may include academic qualifications, LPUNEST scores, work experience, and performance in tests like... **JEE (Mains), NEET, UCEED, CAT, MAT, GATE, GPAT,** etc."
+                            },
+                            {
+                                "question": "Is there a work experience-based scholarship for MBA?",
+                                "answer": "Yes, there is a work experience-based scholarship for MBA. Eligibility is likely linked to relevant work experience. Click here to know more."
+                            },
+                            {
+                                "question": "Are there scholarships for innovation and entrepreneurship?",
+                                "answer": "Scholarships in this category are granted based on innovative ideas, startups, and entrepreneurial initiatives. The application process may involve providing details about your innovation or startup. For more details click here."
+                            },
+                            {
+                                "question": "Are there scholarships for sports and other activities?",
+                                "answer": "Yes, scholarships exist based on performance in sports, cultural activities, R&D, co-curricular activities, social service, and bravery awards. Eligibility criteria may vary for each sub-category. Click here to know more."
+                            },
+                            {
+                                "question": "Is financial aid available?",
+                                "answer": "Yes, financial aid is provided, often based on need. Students facing financial challenges can explore these options for education assistance. Click here to know more."
+                            },
+                            {
+                                "question": "Are there scholarships for Defense and CAPF personnel? What about orphaned applicants?",
+                                "answer": "Yes, scholarships are available specifically for Defense and CAPF personnel and their dependents. Eligibility criteria are likely linked to their association with the respective forces. For more details click here.... Orphaned applicants can apply for scholarships designated for them. The application process may involve providing documentation to verify their orphan status. For more details click here."
+                            },
+                            {
+                                "question": "Are there scholarships for individuals with disabilities?",
+                                "answer": "There are scholarships dedicated to individuals with specific disabilities. Eligibility criteria are based on the nature of the disability, and applicants may need to provide relevant documentation. For more details click here."
+                            },
+                            {
+                                "question": "Are there scholarships for Ph.D. programs?",
+                                "answer": "Yes, there is a specific scholarship for Ph.D. programs. Eligibility criteria are likely related to admission to a Ph.D. program and academic achievements. For more details click here."
+                            }
+                        ]
+                    },
+                    "Specialized_Scholarship_Programs": {
+                        "questions": [
+                            {
+                                "question": "Are there scholarships for orphaned students?",
+                                "answer": "LPU has implemented specialized scholarship programs targeted at specific groups that may require additional support, including orphaned applicants who can access dedicated financial assistance through a streamlined application process that verifies their status."
+                            },
+                            {
+                                "question": "Are there scholarships for defense personnel?",
+                                "answer": "Defense and Central Armed Police Forces (CAPF) personnel and their dependents qualify for specialized scholarships that recognize their service to the nation, with eligibility criteria linked to their association with these forces."
+                            },
+                            {
+                                "question": "Are there scholarships for students with disabilities?",
+                                "answer": "The university demonstrates its commitment to inclusive education through scholarships specifically designed for individuals with disabilities, with eligibility criteria based on the nature of the disability and appropriate documentation requirements."
+                            },
+                            {
+                                "question": "Are there scholarships for Ph.D. students?",
+                                "answer": "Doctoral candidates at LPU can access scholarships specifically designated for Ph.D. programs, with eligibility typically linked to admission to the doctoral program and academic achievements."
+                            }
+                        ]
+                    },
+                    "Financial_Aid": {
+                        "questions": [
+                            {
+                                "question": "Is there financial aid beyond scholarships?",
+                                "answer": "Beyond scholarships, the university provides need-based financial aid options for students facing economic challenges, ensuring that financial constraints do not impede educational opportunities."
+                            },
+                            {
+                                "question": "How can I find more information about scholarships?",
+                                "answer": "Students interested in exploring these scholarship opportunities can access detailed information through the university's dedicated Scholarship Schemes portal, which provides comprehensive guidelines about application procedures, eligibility criteria, and award amounts."
+                            },
+                            {
+                                "question": "Does LPU have a medical center on campus?",
+                                "answer": "Yes, LPU has a well-equipped medical center on campus that provides healthcare services to students and staff. The medical center is staffed with qualified doctors and nurses and offers services such as general consultations, emergency care, and basic medical treatments."
+                            }
+                        ]
+                    }
+                },
+                "description": "Details about the scholarship framework at LPU, including eligibility, application process, and types of scholarships available for various categories of students."
+            },
+            "Hostel_Facilities": {
+                "overview": "Lovely Professional University provides comprehensive hostel accommodations for students, with an online application system accessible through the admissions portal.",
+                "topics": {
+                    "Hostel_Application": {
+                        "questions": [
+                            {
+                                "question": "How can I apply for hostel accommodation?",
+                                "answer": "Hostel accommodations can be applied for through the admissions portal at https://admissions.lpu.in after completing the admission process and before joining the university."
+                            },
+                            {
+                                "question": "When should I book hostel accommodation?",
+                                "answer": "Prospective residents are advised to book their hostel accommodations at the earliest opportunity to secure facilities according to their preferences and avoid the last-minute rush that typically occurs closer to the commencement of the academic session."
+                            },
+                            {
+                                "question": "How can I apply for hostel facilities?",
+                                "answer": "You can apply for hostel facilities online through your application portal at [https://admissions.lpu.in](https://admissions.lpu.in) after completing admission and before joining the university. However, it is advised to book hostels early to secure your preferred facilities and avoid last-minute issues. [Click here](https://www.lpu.in/hostel) to know more."
+                            }
+                        ]
+                    },
+                    "Hostel_Services": {
+                        "questions": [
+                            {
+                                "question": "Are mess and laundry services mandatory?",
+                                "answer": "The university offers flexibility regarding additional services such as mess and laundry facilities, which remain optional for students, allowing them to customize their residential experience according to their personal preferences and requirements."
+                            },
+                            {
+                                "question": "What medical emergency services are available?",
+                                "answer": "The university places significant emphasis on student welfare within the hostel environment, with established protocols for handling medical emergencies that require immediate notification to the warden. Contact numbers for ambulance services are prominently displayed throughout the campus and accessible through the student University Management System (UMS), ensuring quick response during health emergencies."
+                            },
+                            {
+                                "question": "Are mess and laundry facilities mandatory?",
+                                "answer": "Both mess and laundry facility are optional. A student can avail these facilities at the time of reporting in the university."
+                            },
+                            {
+                                "question": "What happens in case of a medical emergency?",
+                                "answer": "In case of a medical emergency, immediately inform your warden. The contact numbers for ambulance services are available throughout the campus and on the student UMS. For more details click here."
+                            },
+                            {
+                                "question": "What are the different types of hostel accommodations available at LPU?",
+                                "answer": "LPU offers various types of hostel accommodations including single occupancy rooms, double occupancy rooms, triple occupancy rooms, and dormitory-style rooms. The hostels are equipped with modern amenities such as Wi-Fi, laundry services, common rooms, and 24/7 security."
+                            }
+                        ]
+                    },
+                    "Residential_Life": {
+                        "questions": [
+                            {
+                                "question": "What activities are available in the hostels?",
+                                "answer": "The residential life at LPU extends beyond merely providing accommodation, with inter-hostel competitions and various evening activities organized by wardens to foster community engagement and entertainment opportunities for resident students."
+                            },
+                            {
+                                "question": "Are there fitness facilities available?",
+                                "answer": "LPU hostels support holistic student development by offering morning routine options that include gym and yoga classes on campus, enabling students to maintain physical fitness and mental well-being alongside their academic pursuits."
+                            },
+                            {
+                                "question": "Can I join clubs while staying in the hostel?",
+                                "answer": "The university facilitates extracurricular engagement through various clubs operated under the Division of Student Welfare, providing students opportunities to showcase their talents on multiple platforms both within and outside the campus."
+                            },
+                            {
+                                "question": "Are there activities in the hostels?",
+                                "answer": "Yes, there are inter-hostel competitions and various evening activities planned by the wardens to keep students engaged and entertained."
+                            },
+                            {
+                                "question": "Can I schedule morning activities?",
+                                "answer": "Absolutely! Students can schedule their morning routine with gym and yoga classes available on campus."
+                            },
+                            {
+                                "question": "Can I join clubs?",
+                                "answer": "Students can join a variety of clubs in the Division of Student Welfare. These clubs offer opportunities to perform on various platforms both inside and outside the campus, based on the students' talents."
+                            }
+                        ]
+                    },
+                    "Hostel_Policies": {
+                        "questions": [
+                            {
+                                "question": "Are there quiet hours in the hostels?",
+                                "answer": "The residential environment at LPU is structured to support academic success through the enforcement of quiet hours, typically from 10 PM to 6 AM, creating a conducive atmosphere for study and rest."
+                            },
+                            {
+                                "question": "Are visitors allowed in the hostels?",
+                                "answer": "The university maintains a balanced approach to visitor policies, allowing guests during specific visiting hours with a requirement to register at the hostel office, while overnight stays for visitors are not permitted to ensure security and comfort for all residents."
+                            },
+                            {
+                                "question": "How are hostel events communicated?",
+                                "answer": "Hostel events and activities are regularly updated on the student UMS and notice boards within the hostels."
+                            },
+                            {
+                                "question": "How can I report maintenance issues?",
+                                "answer": "For any maintenance issues in your room, contact the hostel warden or use the maintenance request feature available on the student UMS."
+                            },
+                            {
+                                "question": "Are there quiet hours in the hostels?",
+                                "answer": "Yes, quiet hours are enforced in the hostels to ensure a conducive study environment. These hours are usually from 10 PM to 6 AM."
+                            },
+                            {
+                                "question": "Are visitors allowed in the hostels?",
+                                "answer": "Visitors are allowed during specific visiting hours and must register at the hostel office. Overnight stays for visitors are not permitted."
+                            },
+                            {
+                                "question": "What are the rules and regulations for hostel residents at LPU?",
+                                "answer": "Hostel residents at LPU are required to adhere to the university's rules and regulations, which include maintaining discipline, following quiet hours, and respecting the rights of fellow residents. Visitors are allowed during specific hours, and residents must register their guests at the hostel office. Any violations of hostel rules may result in disciplinary action."
+                            }
+                        ]
+                    }
+                },
+                "description": "Provides details on hostel facilities and campus life at LPU, including the online application system, optional mess and laundry services, medical emergency protocols, and various activities and policies that promote a supportive living environment."
+            },
+            "Placement_Opportunities": {
+                "overview": "Lovely Professional University boasts impressive placement records, with various agencies ranking the institution among the top performers in placement categories across India.",
+                "topics": {
+                    "Placement_Records": {
+                        "questions": [
+                            {
+                                "question": "What are some notable placement achievements?",
+                                "answer": "The university celebrates exceptional placement achievements, including a graduate securing a package of 3 crore in Germany, demonstrating the global recognition of LPU's educational quality. Another notable success includes a B.Tech. CSE student, Harekrishna Mahto, who received a placement offer from tech giant Google at an impressive package of 62 lakhs."
+                            },
+                            {
+                                "question": "How is LPU's placement record?",
+                                "answer": "Various agencies have ranked LPU in the Top placement performance categories. Not just in India, LPU students are making a mark around the world. LPU graduate working at Global MNC at the package of 3 crore in Germany. This year only, Yet another record-breaking placement with Google for our Verto! Harekrishna Mahto, B.Tech. CSE student has been placed with the tech-giant at a grand package of a whopping 62 Lakhs. Read more about Placements."
+                            },
+                            {
+                                "question": "How are the placements for MCA at LPU?",
+                                "details": "This question specifically asks about the placement opportunities for Master of Computer Applications (MCA) graduates at LPU, including average salary packages and top recruiting companies."
+                            },
+                            {
+                                "question": "How are the placements for B.Tech in Biotechnology at LPU?",
+                                "details": "This question focuses on placement prospects for B.Tech in Biotechnology graduates, including industry connections, practical exposure, and overall placement support."
+                            },
+                            {
+                                "question": "What is the average salary package offered to LPU graduates?",
+                                "answer": "The average salary package offered to LPU graduates varies depending on the program and industry. However, the average package typically ranges from INR 4 to 6 lakhs per annum. Some students have received higher packages, especially in fields like engineering, management, and computer applications."
+                            },
+                            {
+                                "question": "Which companies are the top recruiters at LPU?",
+                                "answer": "Some of the top recruiters at LPU include Amazon, Cognizant, Capgemini, Infosys, TCS, Microsoft, Google, IBM, and Deloitte. These companies regularly participate in campus recruitment drives and offer attractive job opportunities to LPU students."
+                            }
+                        ]
+                    },
+                    "Placement_Preparation": {
+                        "questions": [
+                            {
+                                "question": "How does LPU prepare students for placements?",
+                                "answer": "LPU places significant emphasis on developing students' interpersonal skills and enhancing their placement readiness through a comprehensive approach that includes both credited and non-credited soft skills training programs. The university supplements theoretical learning with practical preparation through mock interviews and weekend engagement sessions focused on experiential learning of essential soft skills."
+                            },
+                            {
+                                "question": "What types of recruitment drives are conducted?",
+                                "answer": "Campus recruitment at LPU encompasses various formats including on-campus, off-campus, and pool-campus recruitment drives, with the primary objective of connecting talented and qualified students with potential employers before they complete their education."
+                            },
+                            {
+                                "question": "How does LPU help improve placement-related skills?",
+                                "answer": "To improve interpersonal skills and enhance placement readiness, students receive credited and non-credited soft skills training. Additionally, mock interviews and weekend engagement sessions focus on soft skills with experiential learning. [Click here](https://www.lpu.in/placements) to know more."
+                            }
+                        ]
+                    },
+                    "Placement_Eligibility": {
+                        "questions": [
+                            {
+                                "question": "What are the eligibility criteria for placements?",
+                                "answer": "To participate in the placement process, students must maintain a minimum CGPA of 6.5 and have no academic backlogs or re-appear examinations during the first two years of study. A strong academic record enhances placement opportunities."
+                            },
+                            {
+                                "question": "How can I get information about specific companies?",
+                                "answer": "Students interested in specific company recruitment details are encouraged to contact the placement cell directly or consult the University Management System (UMS), while also researching the company's website for additional information."
+                            },
+                            {
+                                "question": "What is campus recruitment?",
+                                "answer": "Campus recruitment refers to the process whereby employers undertake an organized program of attracting and hiring students who are about to graduate from colleges, and universities. (On-campus/ Off campus / Pool-campus) The objective of campus placement is to identify the talented and qualified students before they complete their education."
+                            },
+                            {
+                                "question": "How can I get details about a recruiting company?",
+                                "answer": "Please get in touch with the placement cell or visit UMS. You can also refer to the company's website to get the details."
+                            },
+                            {
+                                "question": "How does the shortlisting process work?",
+                                "answer": "At times, the recruiter may shortlist the candidate from the willingness database sent by the placement cell."
+                            },
+                            {
+                                "question": "Can I apply to multiple companies?",
+                                "answer": "Yes, but it has certain conditions attached to it. Please contact the placement cell for more details."
+                            },
+                            {
+                                "question": "How should communication with companies be handled?",
+                                "answer": "All communication should be routed through the Placement Cell only. Student is not allowed to contact the company's HR directly. Any correspondence from the company to the student must be forwarded to the Placement Cell for records."
+                            },
+                            {
+                                "question": "When are recruitment results declared?",
+                                "answer": "Results will be declared on the same day by most of the companies, but a few companies might announce the results later."
+                            },
+                            {
+                                "question": "What if I receive multiple offers?",
+                                "answer": "You are eligible till the final results are declared by the earlier company. If you are selected, then it is mandatory to take the earlier offer."
+                            }
+                        ]
+                    }
+                },
+                "description": "This section provides comprehensive information on placement opportunities at LPU, highlighting the university's impressive placement records, preparation strategies, and eligibility criteria, ensuring students are well-prepared for their careers."
+            },
+            "general_questions": {
+                "topics": {
+                    "Campus_Life": {
+                        "questions": [
+                            {
+                                "question": "What is campus life like at LPU?",
+                                "answer": "Campus life at LPU is vibrant and diverse, offering students a wide range of academic, cultural, and extracurricular activities to engage in, fostering holistic development and a sense of community among the student body."
+                            },
+                            {
+                                "question": "What facilities are available on campus?",
+                                "answer": "The university campus is equipped with state-of-the-art facilities including modern classrooms, laboratories, libraries, sports complexes, hostels, and recreational spaces, ensuring that students have access to all necessary resources for a fulfilling academic experience."
+                            },
+                            {
+                                "question": "What is the campus life like at LPU?",
+                                "answer": "Campus life at LPU is vibrant and diverse, offering students a wide range of academic, cultural, and extracurricular activities to engage in, fostering holistic development and a sense of community among the student body."
+                            },
+                            {
+                                "question": "What facilities are available on campus?",
+                                "answer": "The university campus is equipped with state-of-the-art facilities including modern classrooms, laboratories, libraries, sports complexes, hostels, and recreational spaces, ensuring that students have access to all necessary resources for a fulfilling academic experience."
+                            },
+                            {
+                                "question": "What are the reviews on LPU?",
+                                "details": "This question seeks general opinions and feedback about Lovely Professional University, including the quality of education, infrastructure, and placement opportunities."
+                            },
+                            {
+                                "question": "Why LPU is the best for automobile engineering?",
+                                "details": "This question asks for justifications on why LPU is considered a top choice for Automobile Engineering, focusing on curriculum, infrastructure, and placement opportunities."
+                            },
+                            {
+                                "question": "Can one pursue an M.Sc. in Economics at Lovely Professional University (LPU) after completing a BA in Economics?",
+                                "details": "This question seeks information on program progression, specifically whether a student can continue their studies with an M.Sc. in Economics after a BA in Economics at LPU."
+                            },
+                            {
+                                "question": "I want to know why many people answered very bad about LPU like it's a fraud university, is it true, should I take admission in LPU.",
+                                "details": "This question expresses concerns about negative feedback and seeks reassurance about the legitimacy and quality of LPU."
+                            },
+                            {
+                                "question": "Am I eligible for taking admission in BBA? I have passed 12th with 69.2% but in english I got only 53 marks.",
+                                "details": "This question asks about eligibility criteria for BBA, specifically whether lower marks in English affect admission."
+                            },
+                            {
+                                "question": "How are the placements for B.Tech in Mechanical Engineering at Lovely Professional University (LPU)?",
+                                "details": "This question focuses on placement prospects for B.Tech in Mechanical Engineering graduates, including support from the placement cell and career outcomes."
+                            },
+                            {
+                                "question": "How is the faculty for BBA at LPU?",
+                                "details": "This question focuses on the qualifications, experience, and teaching methods of the faculty in the BBA program at LPU."
+                            },
+                            {
+                                "question": "How can a student calculate their GPA?",
+                                "answer": "To calculate GPA (Grade Point Average), a student needs to:\n1. Convert letter grades to grade points (e.g., A=10, B=9, etc.).\n2. Multiply the grade points by the credit hours for each course.\n3. Sum the total grade points earned.\n4. Divide the total grade points by the total number of credit hours taken.\n\nThe formula is: GPA = (Sum of (Grade Points x Credit Hours)) / Total Credit Hours"
+                            },
+                            {
+                                "question": "What is MTE?",
+                                "answer": "MTE stands for Mid-Term Examination, which is a formal exam conducted in the middle of an academic term to assess students' understanding of the material covered up to that point."
+                            },
+                            {
+                                "question": "What is ETE?",
+                                "answer": "ETE stands for End-Term Examination, which is a comprehensive exam conducted at the end of an academic term to evaluate students' overall understanding and retention of the course material."
+                            },
+                            {
+                                "question": "What is CA?",
+                                "answer": "CA typically refers to Continuous Assessment, which includes assignments, quizzes, and other regular evaluations conducted throughout the semester."
+                            },
+                            {
+                                "question": "What is UMC in LPU?",
+                                "answer": "In LPU, UMC stands for 'Unfair Means Case'. It refers to disciplinary actions taken against students who are caught using unfair means (cheating) in exams. If a student is found guilty, they may face penalties such as fines, suspension, or even cancellation of exams."
+                            },
+                            {
+                                "question": "What is the process for reappearing in an exam at LPU?",
+                                "answer": "The process for reappearing in an exam at LPU typically involves filling out a reappear form, paying the required fee, and following the guidelines set by the university. Students should check the specific reappear guidelines provided by their department or the examination cell."
+                            },
+                            {
+                                "question": "What is the procedure for applying for a revaluation of exam papers at LPU?",
+                                "answer": "The procedure for applying for a revaluation of exam papers at LPU usually involves submitting a revaluation form along with the required fee within the specified deadline. The revaluation process is conducted by the university to ensure fair evaluation of answer scripts."
+                            },
+                            {
+                                "question": "What is the process for applying for a migration certificate at LPU?",
+                                "answer": "The process for applying for a migration certificate at LPU typically involves submitting an application form along with the required documents and fee to the university's administration office. The migration certificate is issued to students who wish to transfer to another institution."
+                            },
+                            {
+                                "question": "What is the procedure for obtaining a duplicate marksheet from LPU?",
+                                "answer": "The procedure for obtaining a duplicate marksheet from LPU usually involves submitting an application for a duplicate marksheet along with the required documents and fee to the university's examination cell. The duplicate marksheet is issued to students in case of loss or damage to the original marksheet."
+                            },
+                            {
+                                "question": "What is the process for applying for a transcript at LPU?",
+                                "answer": "The process for applying for a transcript at LPU typically involves submitting an application for a transcript along with the required documents and fee to the university's administration office. The transcript is a detailed record of a student's academic performance and is often required for further studies or employment."
+                            },
+                            {
+                                "question": "What is the procedure for obtaining a degree certificate from LPU?",
+                                "answer": "The procedure for obtaining a degree certificate from LPU usually involves submitting an application for a degree certificate along with the required documents and fee to the university's examination cell. The degree certificate is awarded to students upon successful completion of their academic program."
+                            },
+                            {
+                                "question": "What is the process for applying for a duplicate degree certificate at LPU?",
+                                "answer": "The process for applying for a duplicate degree certificate at LPU typically involves submitting an application for a duplicate degree certificate along with the required documents and fee to the university's examination cell. The duplicate degree certificate is issued to students in case of loss or damage to the original degree certificate."
+                            },
+                            {
+                                "question": "What sports facilities are available on the LPU campus?",
+                                "answer": "LPU offers a wide range of sports facilities including a cricket ground, football field, basketball courts, tennis courts, badminton courts, swimming pool, gymnasium, and indoor sports complex. The university encourages students to participate in various sports activities to promote physical fitness and overall well-being."
+                            },
+                            {
+                                "question": "Does LPU have a medical center on campus?",
+                                "answer": "Yes, LPU has a well-equipped medical center on campus that provides healthcare services to students and staff. The medical center is staffed with qualified doctors and nurses and offers services such as general consultations, emergency care, and basic medical treatments."
+                            },
+                            {
+                                "question": "What is the student-to-faculty ratio at LPU?",
+                                "answer": "The student-to-faculty ratio at LPU is approximately 15:1. This ratio ensures that students receive personalized attention and guidance from their instructors, promoting a conducive learning environment."
+                            },
+                            {
+                                "question": "What are the research opportunities available for students at LPU?",
+                                "answer": "LPU offers numerous research opportunities for students across various disciplines. The university has dedicated research centers and labs, and students can participate in research projects, internships, and collaborations with industry partners. LPU also encourages students to publish their research findings in reputed journals and conferences."
+                            }
+                        ]
+                    }
+                }
+            },
+            "Academic_Programs": {
+                "topics": {
+                    "General_Information": {
+                        "questions": [
+                            {
+                                "question": "How many programs does LPU offer?",
+                                "answer": "LPU offered more than 150+ programmes in 40+ disciplines. You can visit university website www.lpu.in for details about various Programmes."
+                            },
+                            {
+                                "question": "What is the eligibility criterion for international applicants?",
+                                "answer": "The eligibility criterion for international applicants differs for different programmes. Details regarding the eligibility of the programme you are interested in can be verified at Admission - International Applicants. Click here to know more."
+                            },
+                            {
+                                "question": "Where can I find curriculum information? Can I transfer programs?",
+                                "answer": "You can refer program page for curriculum highlights Programmes and Curriculum... LPU offers more than 150+ different programmes in 40+ disciplines and you can transfer to a program that fulfils your eligibility conditions or you can apply for refund and you will get the refund as per the university refund policy."
+                            }
+                        ]
+                    }
+                },
+                "description": "Details on the academic programs offered at LPU, focusing on the range of programs, eligibility criteria for international applicants, and information on curriculum and program transfers."
+            },
+            "International_Education_Opportunities": {
+                "topics": {
+                    "General_Requirements": {
+                        "questions": [
+                            {
+                                "question": "What are the requirements for international programs?",
+                                "answer": "Yes, students need to fulfil certain requisites and conditions. Click to know more."
+                            },
+                            {
+                                "question": "What are the English proficiency requirements?",
+                                "answer": "English Proficiency test would be subjective to the University & Country you are applying to. Generally, the score required is 6.5 bands, not less than 6 in each module in IELTS. In some cases, partner Universities waive off the IELTS requirement. It is entirely a subjective exemption."
+                            },
+                            {
+                                "question": "Is SAT required for undergraduate admission at foreign universities?",
+                                "answer": "SAT is not required for the admission in the undergraduate courses at the foreign university when a student is taking international transfer through LPU."
+                            },
+                            {
+                                "question": "What are the partner universities for international transfer programs at LPU?",
+                                "answer": "LPU has partnerships with several international universities for transfer programs, including universities in the USA, UK, Canada, Australia, and Europe. Some of the partner universities include University of Northampton (UK), Curtin University (Australia), and Thompson Rivers University (Canada)."
+                            },
+                            {
+                                "question": "What are the benefits of the Semester Abroad program at LPU?",
+                                "answer": "The Semester Abroad program at LPU allows students to study at a partner university abroad for one semester. Benefits include exposure to a different academic environment, cultural exchange, and the opportunity to gain international experience. The program also helps students enhance their global perspective and improve their employability."
+                            }
+                        ]
+                    },
+                    "Host_University_Details": {
+                        "questions": [
+                            {
+                                "question": "What are the requirements for host foreign universities?",
+                                "answer": "These are the host foreign university requirements and would vary as per the course, program and country."
+                            },
+                            {
+                                "question": "What fees are involved in international transfers?",
+                                "answer": "The student has to pay the tuition fee of the overseas host university along with the visa application charges, travel expenses and the living expenses while studying at overseas host university."
+                            },
+                            {
+                                "question": "Can I apply for an education loan for international transfers?",
+                                "answer": "You can apply for an education loan once you have a conditional offer letter from the partner university. The conditional offer letter is a document that you can provide as a supporting document to the bank while applying for Education loan."
+                            }
+                        ]
+                    },
+                    "Visa_and_Offer_Letters": {
+                        "questions": [
+                            {
+                                "question": "What is a conditional offer letter?",
+                                "answer": "Conditional offer letter is an admission letter issued by the overseas host university offering admission to a student subject to conditions which need to be fulfilled. The conditions are mentioned on the letter and student has to fulfil those conditions in order to get acceptance or unconditional offer letter to apply for visa."
+                            },
+                            {
+                                "question": "When can I apply for a visa?",
+                                "answer": "You can apply for visa once you receive the unconditional offer letter and have all the necessary documentation in place, as required by the visa issuing authority of the host country."
+                            },
+                            {
+                                "question": "What is an unconditional offer letter?",
+                                "answer": "Unconditional offer letter is the final letter issued by the overseas host university when the student has met all the admission criteria of the overseas host university."
+                            },
+                            {
+                                "question": "How do I apply for a visa?",
+                                "answer": "You would directly apply for the visa once you have procured the necessary documents. The Division of International Affairs at LPU would only help in procuring relevant documents pertaining to LPU to apply for visa."
+                            }
+                        ]
+                    },
+                    "Transfer_Options": {
+                        "questions": [
+                            {
+                                "question": "Can I apply to universities not on LPU's partner list?",
+                                "answer": "In very exceptional cases you may be allowed to apply to the university which is not mentioned in the list. You should contact the Division of International Affairs with this kind of request."
+                            },
+                            {
+                                "question": "What if I don't meet the criteria for international transfer?",
+                                "answer": "We will give you a choice to improve your grades in order to transfer to a foreign university or you can continue here at LPU and complete the degree."
+                            }
+                        ]
+                    }
+                },
+                "description": "Detailed information about international education opportunities at LPU, including requirements, English proficiency, host university details, visa processes, and transfer options."
+            },
+            "Semester_Abroad_Program": {
+                "topics": {
+                    "Program_Overview": {
+                        "questions": [
+                            {
+                                "question": "What is the Semester Abroad program?",
+                                "answer": "Under Semester Abroad program the tuition fee of the overseas host university is waived hence LPU allows meritorious students with good academic standing to opt for semester abroad as an option. Student must at least spend one academic year at the home university to be eligible to attend semester abroad."
+                            },
+                            {
+                                "question": "What are the eligibility requirements?",
+                                "answer": "Yes, students need to fulfil certain requisites and conditions. Click to know more."
+                            },
+                            {
+                                "question": "Are English proficiency tests required?",
+                                "answer": "Generally English proficiency test is not required for semester abroad but some countries and universities make it mandatory. The score required is 6.5 bands not less than 6 in each module in IELTS."
+                            }
+                        ]
+                    },
+                    "Financial_Aspects": {
+                        "questions": [
+                            {
+                                "question": "What expenses are involved?",
+                                "answer": "The student has to pay for the visa application charges, travel expenses, the living expenses while studying at overseas host university and the nominal expenses (if any) as suggested by the overseas host university."
+                            },
+                            {
+                                "question": "Are academic tests required?",
+                                "answer": "There are no academic tests required to attend a semester abroad."
+                            },
+                            {
+                                "question": "How are students selected?",
+                                "answer": "The student with meritorious and good academic standing has to go through a stringent selection process at Home University. The Home University nominates the selected candidates. Acceptance of the nominated candidates is at sole discretion of the overseas host university."
+                            }
+                        ]
+                    },
+                    "Visa_and_Application": {
+                        "questions": [
+                            {
+                                "question": "Does the university help with visa applications?",
+                                "answer": "The University would not be applying for a visa on behalf of the applicant. The Division of International Affairs at LPU would only help in procuring documents required from the University side to support the visa application process. Students are responsible for submitting their visa applications to the respective authorities following the guidelines provided by the host country."
+                            }
+                        ]
+                    }
+                },
+                "description": "Information regarding the Semester Abroad program at LPU, including eligibility, financial aspects, and visa application support."
+            }
+        }
+    }
+}
